@@ -1,10 +1,9 @@
 title: d ftgnrdthedtyyh
 description: hfdghndfgh
 template:
-  repo: d-ftgnrdthedtyyh-template
-  name: d-ftgnrdthedtyyh
+ asdname: ASXyyh
 before:
-  - type: createIssue
+  - type: creasxASdteIssue
     title: Welcome!
     body: new-issue.md
 steps:
